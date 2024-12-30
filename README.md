@@ -1,2 +1,2 @@
 # BiTree
-Simple but elegant python binary trees
+Python binary tree library
