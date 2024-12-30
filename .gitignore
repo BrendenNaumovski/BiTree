@@ -1,0 +1,9 @@
+# python cache
+**/__pychache__
+.pytest_cache
+*.pyc
+
+# VS Code
+#.vscode
+
+# Project Specific
